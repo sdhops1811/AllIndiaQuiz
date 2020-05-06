@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7dc63e7ca7290492582c56b5f5c2c1f9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eastville Square
+  fontNames:
+  - Eastville Square
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4cc207b1eb1914e44bcfb25b178205fb, type: 3}
+  - {fileID: 12800000, guid: 52e7d0c3329264421b8c7c7e1dbe4ac3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

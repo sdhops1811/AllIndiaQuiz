@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29929658623",
+    "firebase_url": "https://all-india-quiz-94dfd.firebaseio.com",
+    "project_id": "all-india-quiz-94dfd",
+    "storage_bucket": "all-india-quiz-94dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29929658623:android:034d9fa8e1d002ff6514ca",
+        "android_client_info": {
+          "package_name": "com.oeos.allindiaquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29929658623-807rau0nnlhm03ptridjg0o6aq2ns3m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oeos.allindiaquiz",
+            "certificate_hash": "71a7f0898e0047e0e69bd9df2654f854c4071fe2"
+          }
+        },
+        {
+          "client_id": "29929658623-qbqec773v1moj6qtvhsvau50cfcsvlno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRJ5qMsP_KsUdTTPblZJlkfWN8tRK2Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29929658623-qbqec773v1moj6qtvhsvau50cfcsvlno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
